@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\bin\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\MathematicalFormulas\obj\Debug\netcoreapp3.1\MathematicalFormulas.genruntimeconfig.cache

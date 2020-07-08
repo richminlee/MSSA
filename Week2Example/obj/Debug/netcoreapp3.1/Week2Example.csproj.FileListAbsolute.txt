@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\bin\Debug\netcoreapp3.1\Week2Example.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\bin\Debug\netcoreapp3.1\Week2Example.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\bin\Debug\netcoreapp3.1\Week2Example.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\bin\Debug\netcoreapp3.1\Week2Example.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\bin\Debug\netcoreapp3.1\Week2Example.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\bin\Debug\netcoreapp3.1\Week2Example.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\obj\Debug\netcoreapp3.1\Week2Example.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\obj\Debug\netcoreapp3.1\Week2Example.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\obj\Debug\netcoreapp3.1\Week2Example.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\obj\Debug\netcoreapp3.1\Week2Example.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\obj\Debug\netcoreapp3.1\Week2Example.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\obj\Debug\netcoreapp3.1\Week2Example.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\Week2Example\obj\Debug\netcoreapp3.1\Week2Example.genruntimeconfig.cache

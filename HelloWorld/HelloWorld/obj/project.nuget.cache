@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rrnEgXO+YvAPJNakSszONS8vQsNwWTbBDJIRTa3cpPkETADXVuZ5U+jVunr7MHL8nvQMH3dIn0LlJxkxJQhKtg==",
+  "dgSpecHash": "zIZ6q/FddRuUzjWku132idukI5o7EbaR3osB4ubCu1p/Lh6tuu1DEHj9BI4ERa2FRJKANnCvHL0o5Rqawn0PHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leeri\\Desktop\\MSSA\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

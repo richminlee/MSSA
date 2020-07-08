@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.genruntimeconfig.cache

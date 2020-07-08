@@ -1,0 +1,7 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\leeri\Desktop\Microsoft\MSSA\TestHello\bin\Debug\TestHello.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\TestHello\bin\Debug\TestHello.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\TestHello\obj\Debug\TestHello.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\TestHello\obj\Debug\TestHello.pdb
