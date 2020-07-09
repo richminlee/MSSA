@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.genruntimeconfig.cache
