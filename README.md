@@ -1,2 +1,3 @@
 # MSSA
-Microsoft Software & Systems Academy Assignments
+## Microsoft Software & Systems Academy 
+### Simple Assignments 
