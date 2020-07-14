@@ -1,2 +1,2 @@
 # MSSA
-Microsoft Software & Systems Academy Assignemnts
+Microsoft Software & Systems Academy Assignments
