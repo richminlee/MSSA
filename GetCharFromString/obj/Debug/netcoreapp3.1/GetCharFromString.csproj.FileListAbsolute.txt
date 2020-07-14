@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\bin\Debug\netcoreapp3.1\GetCharFromString.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\bin\Debug\netcoreapp3.1\GetCharFromString.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\bin\Debug\netcoreapp3.1\GetCharFromString.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\bin\Debug\netcoreapp3.1\GetCharFromString.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\bin\Debug\netcoreapp3.1\GetCharFromString.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\bin\Debug\netcoreapp3.1\GetCharFromString.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\obj\Debug\netcoreapp3.1\GetCharFromString.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\obj\Debug\netcoreapp3.1\GetCharFromString.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\obj\Debug\netcoreapp3.1\GetCharFromString.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\obj\Debug\netcoreapp3.1\GetCharFromString.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\obj\Debug\netcoreapp3.1\GetCharFromString.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\obj\Debug\netcoreapp3.1\GetCharFromString.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GetCharFromString\obj\Debug\netcoreapp3.1\GetCharFromString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\bin\Debug\netcoreapp3.1\WhiteBoardChallenged.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\bin\Debug\netcoreapp3.1\WhiteBoardChallenged.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\bin\Debug\netcoreapp3.1\WhiteBoardChallenged.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\bin\Debug\netcoreapp3.1\WhiteBoardChallenged.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\bin\Debug\netcoreapp3.1\WhiteBoardChallenged.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\bin\Debug\netcoreapp3.1\WhiteBoardChallenged.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\obj\Debug\netcoreapp3.1\WhiteBoardChallenged.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\obj\Debug\netcoreapp3.1\WhiteBoardChallenged.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\obj\Debug\netcoreapp3.1\WhiteBoardChallenged.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\obj\Debug\netcoreapp3.1\WhiteBoardChallenged.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\obj\Debug\netcoreapp3.1\WhiteBoardChallenged.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\obj\Debug\netcoreapp3.1\WhiteBoardChallenged.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\WhiteBoardChallenged\obj\Debug\netcoreapp3.1\WhiteBoardChallenged.genruntimeconfig.cache
