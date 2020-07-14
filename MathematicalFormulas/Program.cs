@@ -5,21 +5,40 @@ namespace MathematicalFormulas
 {
     class Program
     {
+        static int checkInput()
+        {
+            try
+            {
+                int checkedInput = int.Parse(Console.ReadLine());
+                if (checkedInput > 0)
+                {
+                    return checkedInput;
+                }
+                else
+                {
+                    Console.WriteLine("Input must be greater than 0.");
+                    return checkInput();
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Input must be a number." + ex.Message);
+                return checkInput();
+            }
+        }
         static void Main(string[] args)
         {
             // Part 1
             // Partially worked example
             Console.WriteLine("\nPart 1, circumference and area of a circle.");
             Console.Write("Enter an integer for the radius: ");
-            string strradius = Console.ReadLine();
-            int intradius = int.Parse(strradius);
+            int intradius = checkInput();
             double circumference = 2 * Math.PI * intradius;
             Console.WriteLine($"The circumference is {circumference}");
 
             double area = Math.PI * (intradius * intradius);
 
             Console.WriteLine($"The area is {area}");
-
 
             // Part 2
             Console.WriteLine("\nPart 2, volume of a hemisphere.");

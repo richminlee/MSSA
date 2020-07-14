@@ -60,4 +60,6 @@ Find a parameter that requires multiple seconds of run time. What is that parame
 How accurate is the estimated value of pi?
     It would depend on what the user was using pi for and how accurate he needs it to be, but overall it seems really accurate at higher iterations.
 Research one other use of Monte-Carlo methods. Record it in your exercise submission and be prepared to discuss it in class.
+    Another way to use the Monte-Carlo Method is for probablilities. 
+    Given a larger number of samples, the average, minimum and maximum will form a bell curve. 
 */

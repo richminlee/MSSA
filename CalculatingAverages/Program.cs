@@ -99,15 +99,19 @@ namespace CalculatingAverages
 
         static void Main(string[] args)
         {
+            //1
             Console.WriteLine($"Sum of numbers. The sum of 10 inputs are {sumOfNumbers(10)}");
+
+            //2
             Console.WriteLine(averageScores(10));
+
+            //3
             Console.WriteLine("Please enter the total number of inputs.");
             int noOfInputs = int.Parse(Console.ReadLine());
             Console.WriteLine($"Average a Specific Number of Scores. The average of your inputs are {averageScores(noOfInputs)}");
-            
-            
+
+            //4
             nonSpecific();
-            
         }
     }
 }
