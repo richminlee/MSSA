@@ -1,2 +1,3 @@
 # MSSA
-Assignments within the MSSA Course
+## Microsoft Software & Systems Academy 
+### Simple Assignments 
