@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoardChallenged", "WhiteBoardChallenged.csproj", "{55726BEC-BED0-4737-AD51-FC8B8F35ABBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhiteBoardChallenged", "WhiteBoardChallenged.csproj", "{55726BEC-BED0-4737-AD51-FC8B8F35ABBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetCharFromString", "..\GetCharFromString\GetCharFromString.csproj", "{34AFB68A-2FD4-4E1E-89E5-E6D1E8A3B85D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetCharFromString", "..\GetCharFromString\GetCharFromString.csproj", "{34AFB68A-2FD4-4E1E-89E5-E6D1E8A3B85D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "..\ReverseString\ReverseString.csproj", "{E330A7BB-2E01-48C6-979D-4BF97EA040BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "..\ReverseString\ReverseString.csproj", "{E330A7BB-2E01-48C6-979D-4BF97EA040BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterThanInput", "..\GreaterThanInput\GreaterThanInput.csproj", "{ED90427F-84DD-40DB-84EE-0447B1ED0B06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E330A7BB-2E01-48C6-979D-4BF97EA040BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E330A7BB-2E01-48C6-979D-4BF97EA040BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E330A7BB-2E01-48C6-979D-4BF97EA040BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED90427F-84DD-40DB-84EE-0447B1ED0B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED90427F-84DD-40DB-84EE-0447B1ED0B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED90427F-84DD-40DB-84EE-0447B1ED0B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED90427F-84DD-40DB-84EE-0447B1ED0B06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

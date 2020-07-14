@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\bin\Debug\netcoreapp3.1\GreaterThanInput.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\bin\Debug\netcoreapp3.1\GreaterThanInput.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\bin\Debug\netcoreapp3.1\GreaterThanInput.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\bin\Debug\netcoreapp3.1\GreaterThanInput.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\bin\Debug\netcoreapp3.1\GreaterThanInput.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\bin\Debug\netcoreapp3.1\GreaterThanInput.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\obj\Debug\netcoreapp3.1\GreaterThanInput.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\obj\Debug\netcoreapp3.1\GreaterThanInput.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\obj\Debug\netcoreapp3.1\GreaterThanInput.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\obj\Debug\netcoreapp3.1\GreaterThanInput.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\obj\Debug\netcoreapp3.1\GreaterThanInput.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\obj\Debug\netcoreapp3.1\GreaterThanInput.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GreaterThanInput\obj\Debug\netcoreapp3.1\GreaterThanInput.csprojAssemblyReference.cache
