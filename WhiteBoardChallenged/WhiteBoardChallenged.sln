@@ -11,12 +11,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "..\Reverse
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreaterThanInput", "..\GreaterThanInput\GreaterThanInput.csproj", "{ED90427F-84DD-40DB-84EE-0447B1ED0B06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "..\Palindrome\Palindrome.csproj", "{D5EAA3AC-BB28-49AC-AD66-07AA9D8EF1D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "..\Palindrome\Palindrome.csproj", "{D5EAA3AC-BB28-49AC-AD66-07AA9D8EF1D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeTest", "..\PalindromeTest\PalindromeTest.csproj", "{3BC36766-3BAD-4166-BA0F-3A371478666B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeTest", "..\PalindromeTest\PalindromeTest.csproj", "{3BC36766-3BAD-4166-BA0F-3A371478666B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{D5EAA3AC-BB28-49AC-AD66-07AA9D8EF1D3} = {D5EAA3AC-BB28-49AC-AD66-07AA9D8EF1D3}
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeFunction", "..\TimeFunction\TimeFunction.csproj", "{5CE8E836-82B3-498E-BC0F-679EEA2770EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "..\Geometry\Geometry.csproj", "{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -48,6 +52,14 @@ Global
 		{3BC36766-3BAD-4166-BA0F-3A371478666B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BC36766-3BAD-4166-BA0F-3A371478666B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BC36766-3BAD-4166-BA0F-3A371478666B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE8E836-82B3-498E-BC0F-679EEA2770EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE8E836-82B3-498E-BC0F-679EEA2770EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE8E836-82B3-498E-BC0F-679EEA2770EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE8E836-82B3-498E-BC0F-679EEA2770EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

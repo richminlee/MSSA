@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\bin\Debug\netcoreapp3.1\TimeFunction.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\TimeFunction\obj\Debug\netcoreapp3.1\TimeFunction.genruntimeconfig.cache
