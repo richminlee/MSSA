@@ -20,7 +20,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeTest", "..\Palind
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeFunction", "..\TimeFunction\TimeFunction.csproj", "{5CE8E836-82B3-498E-BC0F-679EEA2770EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "..\Geometry\Geometry.csproj", "{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry", "..\Geometry\Geometry.csproj", "{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circles", "..\Circles\Circles.csproj", "{196BC939-9BBC-42DF-B0CB-05A9DC9F78A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclesTest", "..\CirclesTest\CirclesTest.csproj", "{DA03BA9E-5D97-4006-8191-18BB9460452E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "..\PrimeNumber\PrimeNumber.csproj", "{7330A2C5-C206-4F7F-B1B9-E5A7CF846BCA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,6 +66,18 @@ Global
 		{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FF06F86-97E1-4085-9FC7-F9900F33FA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196BC939-9BBC-42DF-B0CB-05A9DC9F78A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196BC939-9BBC-42DF-B0CB-05A9DC9F78A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196BC939-9BBC-42DF-B0CB-05A9DC9F78A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196BC939-9BBC-42DF-B0CB-05A9DC9F78A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA03BA9E-5D97-4006-8191-18BB9460452E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA03BA9E-5D97-4006-8191-18BB9460452E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA03BA9E-5D97-4006-8191-18BB9460452E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA03BA9E-5D97-4006-8191-18BB9460452E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7330A2C5-C206-4F7F-B1B9-E5A7CF846BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7330A2C5-C206-4F7F-B1B9-E5A7CF846BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7330A2C5-C206-4F7F-B1B9-E5A7CF846BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7330A2C5-C206-4F7F-B1B9-E5A7CF846BCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\bin\Debug\netcoreapp3.1\Circles.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\bin\Debug\netcoreapp3.1\Circles.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\bin\Debug\netcoreapp3.1\Circles.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\obj\Debug\netcoreapp3.1\Circles.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\obj\Debug\netcoreapp3.1\Circles.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\obj\Debug\netcoreapp3.1\Circles.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\obj\Debug\netcoreapp3.1\Circles.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\obj\Debug\netcoreapp3.1\Circles.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\Circles\obj\Debug\netcoreapp3.1\Circles.pdb
