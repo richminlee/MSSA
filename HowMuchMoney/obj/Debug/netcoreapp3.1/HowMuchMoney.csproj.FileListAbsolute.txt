@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\bin\Debug\netcoreapp3.1\HowMuchMoney.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\bin\Debug\netcoreapp3.1\HowMuchMoney.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\bin\Debug\netcoreapp3.1\HowMuchMoney.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\bin\Debug\netcoreapp3.1\HowMuchMoney.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\bin\Debug\netcoreapp3.1\HowMuchMoney.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\bin\Debug\netcoreapp3.1\HowMuchMoney.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\obj\Debug\netcoreapp3.1\HowMuchMoney.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\obj\Debug\netcoreapp3.1\HowMuchMoney.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\obj\Debug\netcoreapp3.1\HowMuchMoney.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\obj\Debug\netcoreapp3.1\HowMuchMoney.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\obj\Debug\netcoreapp3.1\HowMuchMoney.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\obj\Debug\netcoreapp3.1\HowMuchMoney.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\HowMuchMoney\obj\Debug\netcoreapp3.1\HowMuchMoney.genruntimeconfig.cache

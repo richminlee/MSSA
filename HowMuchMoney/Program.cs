@@ -6,7 +6,12 @@ namespace HowMuchMoney
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("HowMuchMoney.Program.Main()");
+            Bank myBank = new Bank(123);
+            int nrCoins = myBank.CountMyCoins();
+            Console.WriteLine($"Wow! I have {nrCoins} coins in my bank!");
+            string[] AllMyCoins = myBank.GetCoins(nrCoins);
+            Console.WriteLine($"I have { myBank.HowMuch(AllMyCoins)} cents"); 
         }
     }
 }
