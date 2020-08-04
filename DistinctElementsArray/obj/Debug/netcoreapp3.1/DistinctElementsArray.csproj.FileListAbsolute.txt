@@ -1,0 +1,12 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\bin\Debug\netcoreapp3.1\DistinctElementsArray.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\bin\Debug\netcoreapp3.1\DistinctElementsArray.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\bin\Debug\netcoreapp3.1\DistinctElementsArray.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\bin\Debug\netcoreapp3.1\DistinctElementsArray.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\bin\Debug\netcoreapp3.1\DistinctElementsArray.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\bin\Debug\netcoreapp3.1\DistinctElementsArray.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.genruntimeconfig.cache
