@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj": {}
+    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ISTA_220_EX6B_Richard_Lee\\ISTA_220_EX6B_Richard_Lee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj": {
+    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ISTA_220_EX6B_Richard_Lee\\ISTA_220_EX6B_Richard_Lee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj",
-        "projectName": "MonteCarloMethod",
-        "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj",
+        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ISTA_220_EX6B_Richard_Lee\\ISTA_220_EX6B_Richard_Lee.csproj",
+        "projectName": "ISTA_220_EX6B_Richard_Lee",
+        "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ISTA_220_EX6B_Richard_Lee\\ISTA_220_EX6B_Richard_Lee.csproj",
         "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\obj\\",
+        "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ISTA_220_EX6B_Richard_Lee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj": {}
+    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ClassesAndObjects\\ClassesAndObjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj": {
+    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ClassesAndObjects\\ClassesAndObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj",
-        "projectName": "MonteCarloMethod",
-        "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\MonteCarloMethod.csproj",
+        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ClassesAndObjects\\ClassesAndObjects.csproj",
+        "projectName": "ClassesAndObjects",
+        "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ClassesAndObjects\\ClassesAndObjects.csproj",
         "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\MonteCarloMethod\\obj\\",
+        "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ClassesAndObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

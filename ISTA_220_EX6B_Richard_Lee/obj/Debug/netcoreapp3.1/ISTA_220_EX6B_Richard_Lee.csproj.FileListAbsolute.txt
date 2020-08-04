@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\bin\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\bin\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\bin\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\bin\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\bin\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\bin\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\obj\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\obj\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\obj\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\obj\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\obj\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\obj\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\ISTA_220_EX6B_Richard_Lee\obj\Debug\netcoreapp3.1\ISTA_220_EX6B_Richard_Lee.genruntimeconfig.cache
