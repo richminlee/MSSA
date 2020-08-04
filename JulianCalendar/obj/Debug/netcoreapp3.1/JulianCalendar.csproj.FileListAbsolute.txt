@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\bin\Debug\netcoreapp3.1\JulianCalendar.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\bin\Debug\netcoreapp3.1\JulianCalendar.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\bin\Debug\netcoreapp3.1\JulianCalendar.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\bin\Debug\netcoreapp3.1\JulianCalendar.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\bin\Debug\netcoreapp3.1\JulianCalendar.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\bin\Debug\netcoreapp3.1\JulianCalendar.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\obj\Debug\netcoreapp3.1\JulianCalendar.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\obj\Debug\netcoreapp3.1\JulianCalendar.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\obj\Debug\netcoreapp3.1\JulianCalendar.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\obj\Debug\netcoreapp3.1\JulianCalendar.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\obj\Debug\netcoreapp3.1\JulianCalendar.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\obj\Debug\netcoreapp3.1\JulianCalendar.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\JulianCalendar\obj\Debug\netcoreapp3.1\JulianCalendar.genruntimeconfig.cache
