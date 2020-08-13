@@ -10,3 +10,4 @@ C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp
 C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.dll
 C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.pdb
 C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\DistinctElementsArray\obj\Debug\netcoreapp3.1\DistinctElementsArray.csprojAssemblyReference.cache

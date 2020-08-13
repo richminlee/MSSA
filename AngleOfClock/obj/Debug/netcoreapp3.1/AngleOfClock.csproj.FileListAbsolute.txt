@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\bin\Debug\netcoreapp3.1\AngleOfClock.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\bin\Debug\netcoreapp3.1\AngleOfClock.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\bin\Debug\netcoreapp3.1\AngleOfClock.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\bin\Debug\netcoreapp3.1\AngleOfClock.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\bin\Debug\netcoreapp3.1\AngleOfClock.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\bin\Debug\netcoreapp3.1\AngleOfClock.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\obj\Debug\netcoreapp3.1\AngleOfClock.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\obj\Debug\netcoreapp3.1\AngleOfClock.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\obj\Debug\netcoreapp3.1\AngleOfClock.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\obj\Debug\netcoreapp3.1\AngleOfClock.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\obj\Debug\netcoreapp3.1\AngleOfClock.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\obj\Debug\netcoreapp3.1\AngleOfClock.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\AngleOfClock\obj\Debug\netcoreapp3.1\AngleOfClock.csprojAssemblyReference.cache
