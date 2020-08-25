@@ -1,0 +1,39 @@
+@model DojoSurveyModel.Models.Survey;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-6 m-4 border border-dark m-4">
+                <div class="row"><div class="col"><h6>Submitted Info</h6></div></div>
+                <div class="row">
+                    <div class="col">Name:</div>
+                    <div class="col">@Model.Name</div>
+                </div>
+                <div class="row">
+                    <div class="col">Dojo Location</div>
+                    <div class="col">@Model.Location</div>
+                </div>
+                <div class="row">
+                    <div class="col">Favorite Language</div>
+                    <div class="col">@Model.Language</div>
+                </div>
+                <div class="row">
+                    <div class="col">Comment:</div>
+                    <div class="col">@Model.Comment</div>
+                </div>
+                <form action="/">
+                    <button class="btn btn-primary">Go Back</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
