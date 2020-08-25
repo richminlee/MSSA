@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\bin\Debug\netcoreapp3.1\GarbageCollectionDemo.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GarbageCollectionDemo\obj\Debug\netcoreapp3.1\GarbageCollectionDemo.genruntimeconfig.cache

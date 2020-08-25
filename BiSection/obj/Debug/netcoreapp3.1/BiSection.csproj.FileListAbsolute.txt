@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\bin\Debug\netcoreapp3.1\BiSection.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\bin\Debug\netcoreapp3.1\BiSection.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\bin\Debug\netcoreapp3.1\BiSection.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\bin\Debug\netcoreapp3.1\BiSection.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\bin\Debug\netcoreapp3.1\BiSection.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\bin\Debug\netcoreapp3.1\BiSection.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\obj\Debug\netcoreapp3.1\BiSection.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\obj\Debug\netcoreapp3.1\BiSection.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\obj\Debug\netcoreapp3.1\BiSection.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\obj\Debug\netcoreapp3.1\BiSection.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\obj\Debug\netcoreapp3.1\BiSection.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\obj\Debug\netcoreapp3.1\BiSection.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\BiSection\obj\Debug\netcoreapp3.1\BiSection.genruntimeconfig.cache
