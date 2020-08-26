@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Coding_Dojo\\JulyC#\\ASP.NET\\DojoSurveyModel\\DojoSurveyModel.csproj",
+      "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ASP.NET\\DojoSurveyModel\\DojoSurveyModel.csproj",
       "projectName": "DojoSurveyModel",
-      "projectPath": "C:\\Users\\leeri\\Desktop\\Coding_Dojo\\JulyC#\\ASP.NET\\DojoSurveyModel\\DojoSurveyModel.csproj",
+      "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ASP.NET\\DojoSurveyModel\\DojoSurveyModel.csproj",
       "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leeri\\Desktop\\Coding_Dojo\\JulyC#\\ASP.NET\\DojoSurveyModel\\obj\\",
+      "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ASP.NET\\DojoSurveyModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

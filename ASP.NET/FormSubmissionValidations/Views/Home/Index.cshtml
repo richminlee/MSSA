@@ -1,0 +1,60 @@
+﻿@{
+    Layout = null;
+}
+@model FormSubmissionValidations.Models.User;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <form asp-action="register" asp-controller="Home" method="POST">
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-3"><span asp-validation-for="FirstName"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-3"><label asp-for="FirstName"></label></div>
+                <div class="col-3"><input asp-for="FirstName"></div>
+            </div>
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-3"><span asp-validation-for="LastName"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-3"><label asp-for="LastName"></label></div>
+                <div class="col-3"><input asp-for="LastName"></div>
+            </div>
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-3"><span asp-validation-for="Age"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-3"><label asp-for="Age"></label></div>
+                <div class="col-3"><input asp-for="Age"></div>
+            </div>
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-3"><span asp-validation-for="Email"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-3"><label asp-for="Email"></label></div>
+                <div class="col-3"><input asp-for="Email"></div>
+            </div>
+            <div class="row">
+                <div class="col-3"></div>
+                <div class="col-3"><span asp-validation-for="Password"></span></div>
+            </div>
+            <div class="row">
+                <div class="col-3"><label asp-for="Password"></label></div>
+                <div class="col-3"><input asp-for="Password"></div>
+            </div>
+            <button class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
