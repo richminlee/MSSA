@@ -19,7 +19,6 @@ C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debu
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\FormSubmissionValidations.TagHelpers.input.cache
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\FormSubmissionValidations.TagHelpers.output.cache
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\FormSubmissionValidations.RazorCoreGenerate.cache
-C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\FormSubmissionValidations.RazorTargetAssemblyInfo.cache
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\FormSubmissionValidations.RazorTargetAssemblyInfo.cs
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\FormSubmissionValidations.Views.pdb
@@ -31,3 +30,4 @@ C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debu
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\FormSubmissionValidations.csproj.CopyComplete
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\Razor\Views\Home\Result.cshtml.g.cs
 C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\FormSubmissionValidations\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs

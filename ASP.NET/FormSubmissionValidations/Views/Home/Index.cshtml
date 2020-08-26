@@ -11,49 +11,72 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body>
-    <div class="container">
+    <div class="container m-4">
+        <div class="row text-center">
+            <div class="col-2"></div>
+            <div class="col ml-5">
+                <img src="images/Code Sharpener Logo.jpg" alt="Code Sharpener Logo">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-4"></div>
+            <div class="col-6 text-center m-4"><h1>Register to see more Content!</h1></div>
+        </div>
         <form asp-action="register" asp-controller="Home" method="POST">
             <div class="row">
-                <div class="col-3"></div>
-                <div class="col-3"><span asp-validation-for="FirstName"></span></div>
+                <div class="col-5"></div>
+                <div class="col-2"></div>
+                <div class="col-4 text-danger"><span asp-validation-for="FirstName"></span></div>
             </div>
             <div class="row">
-                <div class="col-3"><label asp-for="FirstName"></label></div>
-                <div class="col-3"><input asp-for="FirstName"></div>
+                <div class="col-5"></div>
+                <div class="col-2 m-2"><label asp-for="FirstName"></label></div>
+                <div class="col-2 m-2"><input asp-for="FirstName"></div>
             </div>
             <div class="row">
-                <div class="col-3"></div>
-                <div class="col-3"><span asp-validation-for="LastName"></span></div>
+                <div class="col-5"></div>
+                <div class="col-2"></div>
+                <div class="col-4 text-danger"><span asp-validation-for="LastName"></span></div>
             </div>
             <div class="row">
-                <div class="col-3"><label asp-for="LastName"></label></div>
-                <div class="col-3"><input asp-for="LastName"></div>
+                <div class="col-5"></div>
+                <div class="col-2 m-2"><label asp-for="LastName"></label></div>
+                <div class="col-2 m-2"><input asp-for="LastName"></div>
             </div>
             <div class="row">
-                <div class="col-3"></div>
-                <div class="col-3"><span asp-validation-for="Age"></span></div>
+                <div class="col-5"></div>
+                <div class="col-2"></div>
+                <div class="col-4 text-danger"><span asp-validation-for="Age"></span></div>
             </div>
             <div class="row">
-                <div class="col-3"><label asp-for="Age"></label></div>
-                <div class="col-3"><input asp-for="Age"></div>
+                <div class="col-5"></div>
+                <div class="col-2 m-2"><label asp-for="Age"></label></div>
+                <div class="col-2 m-2"><input asp-for="Age"></div>
             </div>
             <div class="row">
-                <div class="col-3"></div>
-                <div class="col-3"><span asp-validation-for="Email"></span></div>
+                <div class="col-5"></div>
+                <div class="col-2"></div>
+                <div class="col-4 text-danger"><span asp-validation-for="Email"></span></div>
             </div>
             <div class="row">
-                <div class="col-3"><label asp-for="Email"></label></div>
-                <div class="col-3"><input asp-for="Email"></div>
+                <div class="col-5"></div>
+                <div class="col-2 m-2"><label asp-for="Email"></label></div>
+                <div class="col-2 m-2"><input asp-for="Email"></div>
             </div>
             <div class="row">
-                <div class="col-3"></div>
-                <div class="col-3"><span asp-validation-for="Password"></span></div>
+                <div class="col-5"></div>
+                <div class="col-2"></div>
+                <div class="col-4 text-danger"><span asp-validation-for="Password"></span></div>
             </div>
             <div class="row">
-                <div class="col-3"><label asp-for="Password"></label></div>
-                <div class="col-3"><input asp-for="Password"></div>
+                <div class="col-5"></div>
+                <div class="col-2 m-2"><label asp-for="Password"></label></div>
+                <div class="col-2 m-2"><input asp-for="Password"></div>
             </div>
-            <button class="btn btn-primary">Submit</button>
+            <div class="row">
+                <div class="col-7"></div>
+                <div class="col-2 mt-2 ml-4"><button class="btn btn-primary">Submit</button></div>
+            </div>
         </form>
     </div>
 </body>

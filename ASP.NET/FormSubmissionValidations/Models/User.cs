@@ -5,11 +5,11 @@ namespace FormSubmissionValidations.Models
     public class User
     {
         [Required]
-        [MinLength(4)]
+        [MinLength(2)]
         [Display(Name="First Name:")]
         public string FirstName { get; set; }
         [Required]
-        [MinLength(4)]
+        [MinLength(2)]
         [Display(Name="Last Name:")]
 
         public string LastName { get; set; }
