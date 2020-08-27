@@ -33,7 +33,8 @@ namespace BiSection
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.Message);
+                Console.WriteLine("Enter a Number");
+                return Play();
             }
             return Play();
         }
@@ -85,7 +86,7 @@ namespace BiSection
         static void Main(string[] args)
         {
             // 1. Implement bisection algorithm
-            // Play();
+            //Play();
             // 2. Guess my number, human plays
             //Random rand = new Random();
             //int computerNumber = rand.Next(1, 1001);
