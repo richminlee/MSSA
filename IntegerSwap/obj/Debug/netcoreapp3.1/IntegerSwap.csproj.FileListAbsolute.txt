@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\bin\Debug\netcoreapp3.1\IntegerSwap.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\bin\Debug\netcoreapp3.1\IntegerSwap.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\bin\Debug\netcoreapp3.1\IntegerSwap.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\bin\Debug\netcoreapp3.1\IntegerSwap.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\bin\Debug\netcoreapp3.1\IntegerSwap.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\bin\Debug\netcoreapp3.1\IntegerSwap.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\obj\Debug\netcoreapp3.1\IntegerSwap.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\obj\Debug\netcoreapp3.1\IntegerSwap.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\obj\Debug\netcoreapp3.1\IntegerSwap.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\obj\Debug\netcoreapp3.1\IntegerSwap.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\obj\Debug\netcoreapp3.1\IntegerSwap.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\obj\Debug\netcoreapp3.1\IntegerSwap.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\IntegerSwap\obj\Debug\netcoreapp3.1\IntegerSwap.csprojAssemblyReference.cache
