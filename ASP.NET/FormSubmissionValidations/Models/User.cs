@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-
+using System;
 namespace FormSubmissionValidations.Models
 {
     public class User
@@ -11,8 +11,11 @@ namespace FormSubmissionValidations.Models
         [Required]
         [MinLength(2)]
         [Display(Name="Last Name:")]
-
         public string LastName { get; set; }
+        [Required]
+        [Display(Name="Date of Birth:")]
+        [FutureDate]
+        public DateTime DateOfBirth {get; set;}
         [Required]
         [Range(0,199)]
         [Display(Name="Age:")]
