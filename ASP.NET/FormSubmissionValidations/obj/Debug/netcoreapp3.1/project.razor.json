@@ -14402,6 +14402,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ASP.NET\\FormSubmissionValidations\\Views\\Home\\NavPartial.cshtml",
+      "TargetPath": "Views\\Home\\NavPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\ASP.NET\\FormSubmissionValidations\\Views\\Home\\Result.cshtml",
       "TargetPath": "Views\\Home\\Result.cshtml",
       "FileKind": "mvc"
