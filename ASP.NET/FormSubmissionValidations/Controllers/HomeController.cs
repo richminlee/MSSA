@@ -20,7 +20,7 @@ namespace FormSubmissionValidations.Controllers
         {
             if(ModelState.IsValid)
             {
-                return RedirectToAction("Result");
+                return RedirectToAction("Result", user);
             }
             else
             {
@@ -28,9 +28,9 @@ namespace FormSubmissionValidations.Controllers
             }
         }
         [HttpGet("result")]
-        public IActionResult Result()
+        public IActionResult Result(User user)
         {
-            return View();
+            return View(user);
         }
     }
 }

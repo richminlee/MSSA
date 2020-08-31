@@ -1,3 +1,4 @@
+@model FormSubmissionValidations.Models.User;
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +11,7 @@
     <div class="container m-4">
     <partial name="NavPartial"/>
         <div class="row">
-            <div class="col text-center"><h1>You Made An Account!!!</h1></div>
+            <div class="col text-center"><h1>Welcome @Model.FirstName @Model.LastName</h1></div>
         </div>
     </div>
 </body>

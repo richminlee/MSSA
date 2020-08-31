@@ -1,0 +1,65 @@
+﻿@model LoginRegistration.Models.ViewModel;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login and Registration</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row h1">
+            <div class="col">Register</div>
+            <div class="col">Login</div>
+        </div>
+        <div class="row">
+            <div class="col ml-5">
+                <form asp-action="register" asp-controller="Home" method="POST">
+                    <div class="row">
+                        <div class="col">
+                            <div class="row"><label asp-for="newUser.FirstName"></label></div>
+                            <div class="row text-danger"><span asp-validation-for="newUser.FirstName"></span></div>
+                            <div class="row"><input asp-for="newUser.FirstName"></div>
+                            <div class="row"><label asp-for="newUser.LastName"></label></div>
+                            <div class="row text-danger"><span asp-validation-for="newUser.LastName"></span></div>
+                            <div class="row"><input asp-for="newUser.LastName"></div>
+                            <div class="row"><label asp-for="newUser.Email"></label></div>
+                            <div class="row text-danger"><span asp-validation-for="newUser.Email"></span></div>
+                            <div class="row"><input asp-for="newUser.Email"></div>
+                            <div class="row">
+                                <button class="btn btn-primary my-2">Sign Up</button>
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div class="row"><label asp-for="newUser.Password"></label></div>
+                            <div class="row text-danger"><span asp-validation-for="newUser.Password"></span></div>
+                            <div class="row"><input asp-for="newUser.Password"></div>
+                            <div class="row"><label asp-for="newUser.ConfirmPW"></label></div>
+                            <div class="row text-danger"><span asp-validation-for="newUser.ConfirmPW"></span></div>
+                            <div class="row"><input asp-for="newUser.ConfirmPW"></div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div class="col ml-5">
+                <form asp-action="login" asp-controller="Home" method="POST">
+                    <div class="row">
+                        <div class="col">
+                            <div class="row"><label asp-for="newLogin.Email"></label></div>
+                            <div class="row text-danger"><span asp-validation-for="newLogin.Email"></span></div>
+                            <div class="row"><input asp-for="newLogin.Email"></div>
+                            <div class="row"><label asp-for="newLogin.Password"></label></div>
+                            <div class="row text-danger"><span asp-validation-for="newLogin.Password"></span></div>
+                            <div class="row"><input asp-for="newLogin.Password"></div>
+                            <div class="row">
+                                <button class="btn btn-primary my-2">Login</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+        </div>
+</body>
+</html>
