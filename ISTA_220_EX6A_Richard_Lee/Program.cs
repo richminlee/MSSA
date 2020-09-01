@@ -93,15 +93,15 @@ namespace ISTA_220_EX6A_Richard_Lee
             // Console.WriteLine(AverageArray(arrayA));
 
             // 2.
-            int[] resultReverseArray = ReverseArray(arrayA); // uncomment these one at a time to check the input results.
+            //int[] resultReverseArray = ReverseArray(arrayA); // uncomment these one at a time to check the input results.
             //int[] resultReverseArray = ReverseArray(arrayB); // uncomment these one at a time to check the input results.
             //int[] resultReverseArray = ReverseArray(arrayC); // uncomment these one at a time to check the input results.
 
-            for (int i = 0; i < resultReverseArray.Length; i++)
-            {
-                Console.Write($"{resultReverseArray[i]}, ");
+            //for (int i = 0; i < resultReverseArray.Length; i++)
+            //{
+            //    Console.Write($"{resultReverseArray[i]}, ");
 
-            }
+            //}
 
             // 3.
             //int[] resultRotatedArray = RotateArray("left", 2, arrayA); // uncomment these one at a time to check the input results.
@@ -114,12 +114,12 @@ namespace ISTA_220_EX6A_Richard_Lee
             //}
 
             // 4. arrayC's arrangement of int is similar to Pi.
-            //int[] resultSortedArray = BubbleSort(arrayC);
-            //for (int i = 0; i < resultSortedArray.Length; i++)
-            //{
-            //    Console.Write($"{resultSortedArray[i]}, ");
+            int[] resultSortedArray = BubbleSort(arrayC);
+            for (int i = 0; i < resultSortedArray.Length; i++)
+            {
+                Console.Write($"{resultSortedArray[i]}, ");
 
-            //}
+            }
         }
     }
 }
