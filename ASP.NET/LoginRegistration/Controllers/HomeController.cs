@@ -20,6 +20,7 @@ namespace LoginRegistration.Controllers
         [HttpPost("register")]
         public IActionResult Register(ViewModel viewModel)
         {
+            User user =  viewModel.newUser;
             if(ModelState.IsValid)
             {
                 return RedirectToAction("Result");
@@ -32,6 +33,7 @@ namespace LoginRegistration.Controllers
         [HttpPost("login")]
         public IActionResult Login(ViewModel viewModel)
         {
+            Login login =  viewModel.newLogin;
             if(ModelState.IsValid)
             {
                 return RedirectToAction("Result");
