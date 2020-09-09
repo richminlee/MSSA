@@ -6,8 +6,18 @@ namespace ISTA_322_EX7A_Richard_Lee
 {
     class Weapon
     {
-        public double Caliber { get; set; }
-        public string Name { get; set; }
+        private bool _caliber;
+        private int _name;
+        public bool Caliber
+        {
+            get => this._caliber;
+            set => this._caliber = value;
+        }
+        public int Name
+        {
+            get => this._name;
+            set => this._name = value;
+        }
         public virtual void Shoot()
         {
             Console.WriteLine("Ratatat Ratatat from any Weapon!");

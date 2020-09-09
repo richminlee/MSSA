@@ -6,8 +6,18 @@ namespace ISTA_322_EX7A_Richard_Lee
 {
     class Vehicle
     {
-        public bool Armored { get; set; }
-        public int NumOfSeats { get; set; }
+        private bool _armored;
+        private int _numOfSeats;
+        public bool Armored 
+        { 
+            get => this._armored; 
+            set => this._armored = value; 
+        }
+        public int NumOfSeats 
+        {
+            get => this._numOfSeats;
+            set => this._numOfSeats = value;
+        }
         public virtual void Move()
         {
             Console.WriteLine("I am Moving!");
