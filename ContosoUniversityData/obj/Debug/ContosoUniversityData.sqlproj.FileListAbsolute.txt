@@ -1,0 +1,10 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\obj\Debug\ContosoUniversityData.sqlprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\obj\Debug\Model.xml
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\obj\Debug\refactor.xml
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\obj\Debug\postdeploy.sql
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\obj\Debug\predeploy.sql
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
