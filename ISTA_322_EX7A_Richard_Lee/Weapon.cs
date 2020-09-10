@@ -6,14 +6,14 @@ namespace ISTA_322_EX7A_Richard_Lee
 {
     class Weapon
     {
-        private bool _caliber;
-        private int _name;
-        public bool Caliber
+        private double _caliber;
+        private string _name;
+        public double Caliber
         {
             get => this._caliber;
             set => this._caliber = value;
         }
-        public int Name
+        public string Name
         {
             get => this._name;
             set => this._name = value;

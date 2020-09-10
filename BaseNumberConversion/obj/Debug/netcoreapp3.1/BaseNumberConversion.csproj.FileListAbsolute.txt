@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\bin\Debug\netcoreapp3.1\BaseNumberConversion.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\bin\Debug\netcoreapp3.1\BaseNumberConversion.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\bin\Debug\netcoreapp3.1\BaseNumberConversion.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\bin\Debug\netcoreapp3.1\BaseNumberConversion.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\bin\Debug\netcoreapp3.1\BaseNumberConversion.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\bin\Debug\netcoreapp3.1\BaseNumberConversion.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\obj\Debug\netcoreapp3.1\BaseNumberConversion.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\obj\Debug\netcoreapp3.1\BaseNumberConversion.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\obj\Debug\netcoreapp3.1\BaseNumberConversion.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\obj\Debug\netcoreapp3.1\BaseNumberConversion.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\obj\Debug\netcoreapp3.1\BaseNumberConversion.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\obj\Debug\netcoreapp3.1\BaseNumberConversion.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\BaseNumberConversion\obj\Debug\netcoreapp3.1\BaseNumberConversion.genruntimeconfig.cache
