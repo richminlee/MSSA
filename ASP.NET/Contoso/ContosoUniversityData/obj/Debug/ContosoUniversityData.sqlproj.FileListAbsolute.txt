@@ -1,0 +1,12 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\ContosoUniversityData\obj\Debug\ContosoUniversityData.sqlprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\Contoso\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\Contoso\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\Contoso\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\Contoso\ContosoUniversityData\obj\Debug\ContosoUniversityData.sqlprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\Contoso\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\ASP.NET\Contoso\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
