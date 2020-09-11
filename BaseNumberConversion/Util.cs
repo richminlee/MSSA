@@ -9,7 +9,7 @@ namespace BaseNumberConversion
         public static int dec2bin(int input)
         {
             string result = "";
-            while(input > 0)
+            while (input > 0)
             {
                 result = input % 2 + result;
                 input /= 2;
@@ -63,7 +63,7 @@ namespace BaseNumberConversion
             int result = 1;
             for (int i = 0; i < power; i++)
             {
-                result*= baseNum;
+                result *= baseNum;
             }
             return result;
         }
