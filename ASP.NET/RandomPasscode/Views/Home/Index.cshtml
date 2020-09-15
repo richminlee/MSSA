@@ -1,8 +1,18 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
+﻿@model RandomPasscode.Models.ViewModel
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container">
+    <div class="row">
+        <div class="col h1 text-center">Random Passcode (passcode #@Model.counter)</div>
+    </div>
+    <div class="row ">
+        <div class="col-4"></div>
+        <div class="col-5 my-5 border border-dark text-center h1">@Model.RandomAlphaNumeric</div>
+    </div>
+    <div class="row">
+        <div class="col text-center">
+            <a asp-action="Index" class="btn btn-primary">GENERATE</a>
+            <a asp-action="Reset" class="btn btn-primary">RESET</a>
+        </div>
+    </div>
 </div>
+
