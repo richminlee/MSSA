@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\bin\Debug\netcoreapp3.1\VectorDistanceCalc.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\bin\Debug\netcoreapp3.1\VectorDistanceCalc.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\bin\Debug\netcoreapp3.1\VectorDistanceCalc.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\bin\Debug\netcoreapp3.1\VectorDistanceCalc.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\bin\Debug\netcoreapp3.1\VectorDistanceCalc.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\bin\Debug\netcoreapp3.1\VectorDistanceCalc.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\obj\Debug\netcoreapp3.1\VectorDistanceCalc.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\obj\Debug\netcoreapp3.1\VectorDistanceCalc.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\obj\Debug\netcoreapp3.1\VectorDistanceCalc.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\obj\Debug\netcoreapp3.1\VectorDistanceCalc.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\obj\Debug\netcoreapp3.1\VectorDistanceCalc.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\obj\Debug\netcoreapp3.1\VectorDistanceCalc.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\VectorDistanceCalc\obj\Debug\netcoreapp3.1\VectorDistanceCalc.genruntimeconfig.cache
