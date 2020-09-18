@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\bin\Debug\netcoreapp3.1\findSumOfDigit.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\bin\Debug\netcoreapp3.1\findSumOfDigit.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\bin\Debug\netcoreapp3.1\findSumOfDigit.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\bin\Debug\netcoreapp3.1\findSumOfDigit.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\bin\Debug\netcoreapp3.1\findSumOfDigit.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\bin\Debug\netcoreapp3.1\findSumOfDigit.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\obj\Debug\netcoreapp3.1\findSumOfDigit.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\obj\Debug\netcoreapp3.1\findSumOfDigit.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\obj\Debug\netcoreapp3.1\findSumOfDigit.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\obj\Debug\netcoreapp3.1\findSumOfDigit.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\obj\Debug\netcoreapp3.1\findSumOfDigit.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\obj\Debug\netcoreapp3.1\findSumOfDigit.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\findSumOfDigit\obj\Debug\netcoreapp3.1\findSumOfDigit.genruntimeconfig.cache

@@ -5,23 +5,25 @@ namespace VectorDistanceCalc
 {
     class Program
     {
-        public static Tuple<int, int, int>[] points(int input)
+        public static Tuple<int, int, int>[] points(int numberOfPoints)
         {
             Random random = new Random();
-            Tuple<int, int, int>[] lotsOfPoints = new Tuple<int, int, int>[input];
-            for (int i = 0; i < input; i++)
+            Tuple<int, int, int>[] lotsOfPoints = new Tuple<int, int, int>[numberOfPoints];
+            for (int i = 0; i < numberOfPoints; i++)
             {
-                int x = random.Next(0, input);
-                int y = random.Next(0, input);
-                int z = random.Next(0, input);
+                int x = random.Next(0, numberOfPoints);
+                int y = random.Next(0, numberOfPoints);
+                int z = random.Next(0, numberOfPoints);
                 lotsOfPoints[i] = new Tuple<int, int, int> ( x, y, z );
             }
             return lotsOfPoints;
         }
-        public static double distance(Tuple<int, int, int> one, Tuple<int, int, int> two)
+
+        public static double Distance(Tuple<int, int, int> one, Tuple<int, int, int> two)
         {
             return Math.Sqrt(Math.Pow((one.Item1 - two.Item1), 2) + Math.Pow(one.Item2 - two.Item2, 2) + Math.Pow(one.Item3 - two.Item3, 2));
         }
+
         public static void smallestDistance()
         {
             Tuple<int, int, int>[] lots = points(1000);
@@ -34,10 +36,10 @@ namespace VectorDistanceCalc
                 {
                     if (i != j)
                     {
-                        double Distance = distance(lots[i], lots[j]);
-                        if (Distance < smallest)
+                        double distance = Distance(lots[i], lots[j]);
+                        if (distance < smallest)
                         {
-                            smallest = Distance;
+                            smallest = distance;
                             idx[0] = i;
                             idx[1] = j;
 
