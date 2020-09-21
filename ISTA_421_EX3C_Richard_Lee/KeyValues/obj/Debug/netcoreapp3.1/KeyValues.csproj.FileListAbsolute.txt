@@ -1,0 +1,12 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\bin\Debug\netcoreapp3.1\KeyValues.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\bin\Debug\netcoreapp3.1\KeyValues.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\bin\Debug\netcoreapp3.1\KeyValues.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\bin\Debug\netcoreapp3.1\KeyValues.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\bin\Debug\netcoreapp3.1\KeyValues.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\bin\Debug\netcoreapp3.1\KeyValues.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\obj\Debug\netcoreapp3.1\KeyValues.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\obj\Debug\netcoreapp3.1\KeyValues.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\obj\Debug\netcoreapp3.1\KeyValues.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\obj\Debug\netcoreapp3.1\KeyValues.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\obj\Debug\netcoreapp3.1\KeyValues.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\KeyValues\obj\Debug\netcoreapp3.1\KeyValues.genruntimeconfig.cache

@@ -8,7 +8,7 @@ namespace KeyValueStore
     {
         public readonly string Key;
 
-        public TValue Value { get; }
+        public readonly TValue Value;
         public KeyValue(string key, TValue value)
         {
             Key = key;

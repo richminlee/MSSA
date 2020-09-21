@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\bin\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\GenericCollections\obj\Debug\netcoreapp3.1\GenericCollections.genruntimeconfig.cache
