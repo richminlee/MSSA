@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LXoTOf6ZP6LzlDc4gJkPs/ms3N7cA10wpdWgScPHk5apgJvsOSCt4OVVGo0PAD9OuOtNCwJOsCcxNmZPURGbqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\PasswordEncryption\\PasswordEncryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leeri\\.nuget\\packages\\bcrypt.net-next\\4.0.0\\bcrypt.net-next.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
