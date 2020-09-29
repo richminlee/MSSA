@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\bin\Debug\netcoreapp3.1\EncryptDecrypt.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\bin\Debug\netcoreapp3.1\EncryptDecrypt.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\bin\Debug\netcoreapp3.1\EncryptDecrypt.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\bin\Debug\netcoreapp3.1\EncryptDecrypt.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\bin\Debug\netcoreapp3.1\EncryptDecrypt.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\bin\Debug\netcoreapp3.1\EncryptDecrypt.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\obj\Debug\netcoreapp3.1\EncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\obj\Debug\netcoreapp3.1\EncryptDecrypt.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\obj\Debug\netcoreapp3.1\EncryptDecrypt.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\obj\Debug\netcoreapp3.1\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\obj\Debug\netcoreapp3.1\EncryptDecrypt.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\obj\Debug\netcoreapp3.1\EncryptDecrypt.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\EncryptDecrypt\obj\Debug\netcoreapp3.1\EncryptDecrypt.genruntimeconfig.cache
