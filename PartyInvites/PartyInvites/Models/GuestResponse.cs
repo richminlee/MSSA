@@ -17,5 +17,6 @@ namespace PartyInvites.Models
         public string Phone { get; set; }
         [Required(ErrorMessage = "Please specify whether you'll attend")]
         public bool? WillAttend { get; set; }
+        public DateTime RSVPDT { get; set; }
     }
 }

@@ -39,3 +39,4 @@ C:\Users\leeri\Desktop\Microsoft\MSSA\PartyInvites\PartyInvites\obj\Debug\netcor
 C:\Users\leeri\Desktop\Microsoft\MSSA\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
 C:\Users\leeri\Desktop\Microsoft\MSSA\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
 C:\Users\leeri\Desktop\Microsoft\MSSA\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListResponses.cshtml.g.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\PartyInvites\PartyInvites\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\PartyInvites20201001111346 - Web Deploy\profile.arm.json

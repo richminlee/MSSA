@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PartyInvites.Models;
+using System;
 using System.Linq;
 
 namespace PartyInvites.Controllers
@@ -20,6 +21,7 @@ namespace PartyInvites.Controllers
         {
             if (ModelState.IsValid)
             {
+                guestResponse.RSVPDT = DateTime.UtcNow;
                 Repository.AddResponse(guestResponse);
                 return View("Thanks", guestResponse);
             }
