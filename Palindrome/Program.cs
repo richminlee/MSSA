@@ -11,6 +11,14 @@ namespace Palindrome
             int j = input.Length - 1;
             while (j > i)
             {
+                if (input[i] == ' ')
+                {
+                    i++;
+                }
+                if (input[j] == ' ')
+                {
+                    j--;
+                }
                 if (input[i] != input[j])
                 {
                     return false;
