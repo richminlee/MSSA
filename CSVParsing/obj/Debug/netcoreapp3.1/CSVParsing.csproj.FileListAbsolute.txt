@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\bin\Debug\netcoreapp3.1\CSVParsing.exe
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\bin\Debug\netcoreapp3.1\CSVParsing.deps.json
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\bin\Debug\netcoreapp3.1\CSVParsing.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\bin\Debug\netcoreapp3.1\CSVParsing.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\bin\Debug\netcoreapp3.1\CSVParsing.dll
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\bin\Debug\netcoreapp3.1\CSVParsing.pdb
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\obj\Debug\netcoreapp3.1\CSVParsing.csprojAssemblyReference.cache
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\obj\Debug\netcoreapp3.1\CSVParsing.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\obj\Debug\netcoreapp3.1\CSVParsing.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\obj\Debug\netcoreapp3.1\CSVParsing.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\obj\Debug\netcoreapp3.1\CSVParsing.dll
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\obj\Debug\netcoreapp3.1\CSVParsing.pdb
+C:\Users\leeri\Desktop\Microsoft\Homework\ISTA_421\CSVParsing\obj\Debug\netcoreapp3.1\CSVParsing.genruntimeconfig.cache
