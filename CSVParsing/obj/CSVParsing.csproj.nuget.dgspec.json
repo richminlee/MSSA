@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leeri\\Desktop\\Microsoft\\Homework\\ISTA_421\\CSVParsing\\CSVParsing.csproj": {}
+    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\CSVParsing\\CSVParsing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leeri\\Desktop\\Microsoft\\Homework\\ISTA_421\\CSVParsing\\CSVParsing.csproj": {
+    "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\CSVParsing\\CSVParsing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\Homework\\ISTA_421\\CSVParsing\\CSVParsing.csproj",
+        "projectUniqueName": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\CSVParsing\\CSVParsing.csproj",
         "projectName": "CSVParsing",
-        "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\Homework\\ISTA_421\\CSVParsing\\CSVParsing.csproj",
+        "projectPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\CSVParsing\\CSVParsing.csproj",
         "packagesPath": "C:\\Users\\leeri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\Homework\\ISTA_421\\CSVParsing\\obj\\",
+        "outputPath": "C:\\Users\\leeri\\Desktop\\Microsoft\\MSSA\\CSVParsing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.33.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
