@@ -10,3 +10,4 @@ C:\Users\leeri\Desktop\Microsoft\MSSA\QuickSort\bin\Debug\netcoreapp3.1\QuickSor
 C:\Users\leeri\Desktop\Microsoft\MSSA\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.dll
 C:\Users\leeri\Desktop\Microsoft\MSSA\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.pdb
 C:\Users\leeri\Desktop\Microsoft\MSSA\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\QuickSort\obj\Debug\netcoreapp3.1\QuickSort.csprojAssemblyReference.cache

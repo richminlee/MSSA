@@ -38,7 +38,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bucket", "..\Bucket\Bucket.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickSort", "..\QuickSort\QuickSort.csproj", "{B57F36D6-B793-4020-916A-417413C09FCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerSwap", "..\IntegerSwap\IntegerSwap.csproj", "{5874A89A-2162-4666-AE7B-2FB1C1ED1C16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerSwap", "..\IntegerSwap\IntegerSwap.csproj", "{5874A89A-2162-4666-AE7B-2FB1C1ED1C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camelCase", "..\camelCase\camelCase.csproj", "{7AC76F09-AF60-4AA9-9E1A-680653EE4F6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -114,6 +116,10 @@ Global
 		{5874A89A-2162-4666-AE7B-2FB1C1ED1C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5874A89A-2162-4666-AE7B-2FB1C1ED1C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5874A89A-2162-4666-AE7B-2FB1C1ED1C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC76F09-AF60-4AA9-9E1A-680653EE4F6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC76F09-AF60-4AA9-9E1A-680653EE4F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC76F09-AF60-4AA9-9E1A-680653EE4F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC76F09-AF60-4AA9-9E1A-680653EE4F6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

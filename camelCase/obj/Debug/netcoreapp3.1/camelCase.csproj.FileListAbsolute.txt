@@ -1,0 +1,13 @@
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\bin\Debug\netcoreapp3.1\camelCase.exe
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\bin\Debug\netcoreapp3.1\camelCase.deps.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\bin\Debug\netcoreapp3.1\camelCase.runtimeconfig.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\bin\Debug\netcoreapp3.1\camelCase.runtimeconfig.dev.json
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\bin\Debug\netcoreapp3.1\camelCase.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\bin\Debug\netcoreapp3.1\camelCase.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\obj\Debug\netcoreapp3.1\camelCase.AssemblyInfoInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\obj\Debug\netcoreapp3.1\camelCase.AssemblyInfo.cs
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\obj\Debug\netcoreapp3.1\camelCase.csproj.CoreCompileInputs.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\obj\Debug\netcoreapp3.1\camelCase.dll
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\obj\Debug\netcoreapp3.1\camelCase.pdb
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\obj\Debug\netcoreapp3.1\camelCase.genruntimeconfig.cache
+C:\Users\leeri\Desktop\Microsoft\MSSA\camelCase\obj\Debug\netcoreapp3.1\camelCase.csprojAssemblyReference.cache
